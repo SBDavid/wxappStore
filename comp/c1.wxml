@@ -1,0 +1,4 @@
+<!--comp/c1.wxml-->
+<view>组件c1</view>
+<view>读取组件prop：{{localtimeProps}}</view>
+<view>读取全局状态：{{localtimeData}}</view>

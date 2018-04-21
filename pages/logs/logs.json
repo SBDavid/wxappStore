@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "第二个页面",
+  "usingComponents": {
+    "c": "../../comp/c1"
+  }
+}

@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button bindtap="bindViewTap"> 切换页面 </button>
+  </view>
+  <c localtimeProps="{{localtime}}"></c>
+</view>
